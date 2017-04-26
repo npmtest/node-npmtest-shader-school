@@ -1,0 +1,314 @@
+<svg height="4974" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="4974" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-26 07:13:12 +0000   294817 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-26 07:13:12 +0000     1327 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-26 07:13:12 +0000     2878 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-26 07:13:12 +0000     1422 bytes  exercises.json</tspan>
+<tspan x="10" y="90">  4.  2017-04-26 07:13:12 +0000     2251 bytes  exercises/_gpgpu-1/README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-26 07:13:12 +0000      483 bytes  exercises/_gpgpu-1/files/render.frag</tspan>
+<tspan x="10" y="122">  6.  2017-04-26 07:13:12 +0000      277 bytes  exercises/_gpgpu-1/index.html</tspan>
+<tspan x="10" y="138">  7.  2017-04-26 07:13:12 +0000     2114 bytes  exercises/_gpgpu-1/index.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-26 07:13:12 +0000      780 bytes  exercises/_gpgpu-1/server.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-26 07:13:12 +0000      132 bytes  exercises/_gpgpu-1/shaders/display.frag</tspan>
+<tspan x="10" y="186"> 10.  2017-04-26 07:13:12 +0000      627 bytes  exercises/_gpgpu-1/shaders/expected.frag</tspan>
+<tspan x="10" y="202"> 11.  2017-04-26 07:13:12 +0000      166 bytes  exercises/_gpgpu-1/shaders/triangle.vert</tspan>
+<tspan x="10" y="218"> 12.  2017-04-26 07:13:12 +0000      828 bytes  exercises/_gpgpu-3/README.md</tspan>
+<tspan x="10" y="234"> 13.  2017-04-26 07:13:12 +0000      444 bytes  exercises/_gpgpu-3/files/logic.frag</tspan>
+<tspan x="10" y="250"> 14.  2017-04-26 07:13:12 +0000      316 bytes  exercises/_gpgpu-3/files/render.frag</tspan>
+<tspan x="10" y="266"> 15.  2017-04-26 07:13:12 +0000      277 bytes  exercises/_gpgpu-3/index.html</tspan>
+<tspan x="10" y="282"> 16.  2017-04-26 07:13:12 +0000     2978 bytes  exercises/_gpgpu-3/index.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-26 07:13:12 +0000      782 bytes  exercises/_gpgpu-3/server.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-26 07:13:12 +0000      550 bytes  exercises/_gpgpu-3/shaders/logic_solution.frag</tspan>
+<tspan x="10" y="330"> 19.  2017-04-26 07:13:12 +0000      586 bytes  exercises/_gpgpu-3/shaders/render_solution.frag</tspan>
+<tspan x="10" y="346"> 20.  2017-04-26 07:13:12 +0000      166 bytes  exercises/_gpgpu-3/shaders/triangle.vert</tspan>
+<tspan x="10" y="362"> 21.  2017-04-26 07:13:12 +0000      757 bytes  exercises/_lesson-template/README.md</tspan>
+<tspan x="10" y="378"> 22.  2017-04-26 07:13:12 +0000      299 bytes  exercises/_lesson-template/files/triangle.frag</tspan>
+<tspan x="10" y="394"> 23.  2017-04-26 07:13:12 +0000      285 bytes  exercises/_lesson-template/index.html</tspan>
+<tspan x="10" y="410"> 24.  2017-04-26 07:13:12 +0000     1313 bytes  exercises/_lesson-template/index.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-26 07:13:12 +0000      726 bytes  exercises/_lesson-template/server.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-26 07:13:12 +0000      284 bytes  exercises/_lesson-template/shaders/triangle.frag</tspan>
+<tspan x="10" y="458"> 27.  2017-04-26 07:13:12 +0000      113 bytes  exercises/_lesson-template/shaders/triangle.vert</tspan>
+<tspan x="10" y="474"> 28.  2017-04-26 07:13:12 +0000     1575 bytes  exercises/_macros/README.md</tspan>
+<tspan x="10" y="490"> 29.  2017-04-26 07:13:12 +0000     6565 bytes  exercises/_point-1/README.md</tspan>
+<tspan x="10" y="506"> 30.  2017-04-26 07:13:12 +0000       71 bytes  exercises/_point-1/files/fragment.glsl</tspan>
+<tspan x="10" y="522"> 31.  2017-04-26 07:13:12 +0000      118 bytes  exercises/_point-1/files/vertex.glsl</tspan>
+<tspan x="10" y="538"> 32.  2017-04-26 07:13:12 +0000      297 bytes  exercises/_point-1/index.html</tspan>
+<tspan x="10" y="554"> 33.  2017-04-26 07:13:12 +0000     2308 bytes  exercises/_point-1/index.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-26 07:13:12 +0000      779 bytes  exercises/_point-1/server.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-26 07:13:12 +0000       47 bytes  exercises/_point-1/shaders/fragment.glsl</tspan>
+<tspan x="10" y="602"> 36.  2017-04-26 07:13:12 +0000      157 bytes  exercises/_point-1/shaders/vertex.glsl</tspan>
+<tspan x="10" y="618"> 37.  2017-04-26 07:13:12 +0000     3874 bytes  exercises/common.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-26 07:13:12 +0000     2468 bytes  exercises/frag-1/README.md</tspan>
+<tspan x="10" y="650"> 39.  2017-04-26 07:13:12 +0000      359 bytes  exercises/frag-1/files/fragment.glsl</tspan>
+<tspan x="10" y="666"> 40.  2017-04-26 07:13:12 +0000      293 bytes  exercises/frag-1/index.html</tspan>
+<tspan x="10" y="682"> 41.  2017-04-26 07:13:12 +0000     1390 bytes  exercises/frag-1/index.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-26 07:13:12 +0000      779 bytes  exercises/frag-1/server.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-26 07:13:12 +0000      313 bytes  exercises/frag-1/shaders/fragment.glsl</tspan>
+<tspan x="10" y="730"> 44.  2017-04-26 07:13:12 +0000      113 bytes  exercises/frag-1/shaders/vertex.glsl</tspan>
+<tspan x="10" y="746"> 45.  2017-04-26 07:13:12 +0000      809 bytes  exercises/frag-2/README.md</tspan>
+<tspan x="10" y="762"> 46.  2017-04-26 07:13:12 +0000      121 bytes  exercises/frag-2/files/fragment.glsl</tspan>
+<tspan x="10" y="778"> 47.  2017-04-26 07:13:12 +0000      268 bytes  exercises/frag-2/index.html</tspan>
+<tspan x="10" y="794"> 48.  2017-04-26 07:13:12 +0000     1866 bytes  exercises/frag-2/index.js</tspan>
+<tspan x="10" y="810"> 49.  2017-04-26 07:13:12 +0000      779 bytes  exercises/frag-2/server.js</tspan>
+<tspan x="10" y="826"> 50.  2017-04-26 07:13:12 +0000      188 bytes  exercises/frag-2/shaders/fragment.glsl</tspan>
+<tspan x="10" y="842"> 51.  2017-04-26 07:13:12 +0000      113 bytes  exercises/frag-2/shaders/vertex.glsl</tspan>
+<tspan x="10" y="858"> 52.  2017-04-26 07:13:12 +0000     1923 bytes  exercises/frag-3/README.md</tspan>
+<tspan x="10" y="874"> 53.  2017-04-26 07:13:12 +0000      236 bytes  exercises/frag-3/files/fragment.glsl</tspan>
+<tspan x="10" y="890"> 54.  2017-04-26 07:13:12 +0000      282 bytes  exercises/frag-3/index.html</tspan>
+<tspan x="10" y="906"> 55.  2017-04-26 07:13:12 +0000     3857 bytes  exercises/frag-3/index.js</tspan>
+<tspan x="10" y="922"> 56.  2017-04-26 07:13:12 +0000      779 bytes  exercises/frag-3/server.js</tspan>
+<tspan x="10" y="938"> 57.  2017-04-26 07:13:12 +0000      187 bytes  exercises/frag-3/shaders/fragment.glsl</tspan>
+<tspan x="10" y="954"> 58.  2017-04-26 07:13:12 +0000      113 bytes  exercises/frag-3/shaders/vertex.glsl</tspan>
+<tspan x="10" y="970"> 59.  2017-04-26 07:13:12 +0000     6662 bytes  exercises/geom-1/README.md</tspan>
+<tspan x="10" y="986"> 60.  2017-04-26 07:13:12 +0000      204 bytes  exercises/geom-1/files/transforms.glsl</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-26 07:13:12 +0000      297 bytes  exercises/geom-1/index.html</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-26 07:13:12 +0000     2827 bytes  exercises/geom-1/index.js</tspan>
+<tspan x="10" y="1034"> 63.  2017-04-26 07:13:12 +0000      779 bytes  exercises/geom-1/server.js</tspan>
+<tspan x="10" y="1050"> 64.  2017-04-26 07:13:12 +0000       47 bytes  exercises/geom-1/shaders/fragment.glsl</tspan>
+<tspan x="10" y="1066"> 65.  2017-04-26 07:13:12 +0000      166 bytes  exercises/geom-1/shaders/vertex.glsl</tspan>
+<tspan x="10" y="1082"> 66.  2017-04-26 07:13:12 +0000     1094 bytes  exercises/geom-2/README.md</tspan>
+<tspan x="10" y="1098"> 67.  2017-04-26 07:13:12 +0000      297 bytes  exercises/geom-2/files/translate.glsl</tspan>
+<tspan x="10" y="1114"> 68.  2017-04-26 07:13:12 +0000      273 bytes  exercises/geom-2/index.html</tspan>
+<tspan x="10" y="1130"> 69.  2017-04-26 07:13:12 +0000     3160 bytes  exercises/geom-2/index.js</tspan>
+<tspan x="10" y="1146"> 70.  2017-04-26 07:13:12 +0000      779 bytes  exercises/geom-2/server.js</tspan>
+<tspan x="10" y="1162"> 71.  2017-04-26 07:13:12 +0000      183 bytes  exercises/geom-2/shaders/expected.glsl</tspan>
+<tspan x="10" y="1178"> 72.  2017-04-26 07:13:12 +0000       47 bytes  exercises/geom-2/shaders/fragment.glsl</tspan>
+<tspan x="10" y="1194"> 73.  2017-04-26 07:13:12 +0000      253 bytes  exercises/geom-2/shaders/vertex.glsl</tspan>
+<tspan x="10" y="1210"> 74.  2017-04-26 07:13:12 +0000      732 bytes  exercises/geom-3/README.md</tspan>
+<tspan x="10" y="1226"> 75.  2017-04-26 07:13:12 +0000      266 bytes  exercises/geom-3/files/scale.glsl</tspan>
+<tspan x="10" y="1242"> 76.  2017-04-26 07:13:12 +0000      268 bytes  exercises/geom-3/index.html</tspan>
+<tspan x="10" y="1258"> 77.  2017-04-26 07:13:12 +0000     3254 bytes  exercises/geom-3/index.js</tspan>
+<tspan x="10" y="1274"> 78.  2017-04-26 07:13:12 +0000      779 bytes  exercises/geom-3/server.js</tspan>
+<tspan x="10" y="1290"> 79.  2017-04-26 07:13:12 +0000      172 bytes  exercises/geom-3/shaders/expected.glsl</tspan>
+<tspan x="10" y="1306"> 80.  2017-04-26 07:13:12 +0000       47 bytes  exercises/geom-3/shaders/fragment.glsl</tspan>
+<tspan x="10" y="1322"> 81.  2017-04-26 07:13:12 +0000      249 bytes  exercises/geom-3/shaders/vertex.glsl</tspan>
+<tspan x="10" y="1338"> 82.  2017-04-26 07:13:12 +0000      575 bytes  exercises/geom-4/README.md</tspan>
+<tspan x="10" y="1354"> 83.  2017-04-26 07:13:12 +0000      292 bytes  exercises/geom-4/files/reflect.glsl</tspan>
+<tspan x="10" y="1370"> 84.  2017-04-26 07:13:12 +0000      272 bytes  exercises/geom-4/index.html</tspan>
+<tspan x="10" y="1386"> 85.  2017-04-26 07:13:12 +0000     3145 bytes  exercises/geom-4/index.js</tspan>
+<tspan x="10" y="1402"> 86.  2017-04-26 07:13:12 +0000      779 bytes  exercises/geom-4/server.js</tspan>
+<tspan x="10" y="1418"> 87.  2017-04-26 07:13:12 +0000      370 bytes  exercises/geom-4/shaders/expected.glsl</tspan>
+<tspan x="10" y="1434"> 88.  2017-04-26 07:13:12 +0000       47 bytes  exercises/geom-4/shaders/fragment.glsl</tspan>
+<tspan x="10" y="1450"> 89.  2017-04-26 07:13:12 +0000      204 bytes  exercises/geom-4/shaders/vertex.glsl</tspan>
+<tspan x="10" y="1466"> 90.  2017-04-26 07:13:12 +0000     1637 bytes  exercises/geom-5/README.md</tspan>
+<tspan x="10" y="1482"> 91.  2017-04-26 07:13:12 +0000      309 bytes  exercises/geom-5/files/rotate.glsl</tspan>
+<tspan x="10" y="1498"> 92.  2017-04-26 07:13:12 +0000      270 bytes  exercises/geom-5/index.html</tspan>
+<tspan x="10" y="1514"> 93.  2017-04-26 07:13:12 +0000     3264 bytes  exercises/geom-5/index.js</tspan>
+<tspan x="10" y="1530"> 94.  2017-04-26 07:13:12 +0000      779 bytes  exercises/geom-5/server.js</tspan>
+<tspan x="10" y="1546"> 95.  2017-04-26 07:13:12 +0000      547 bytes  exercises/geom-5/shaders/expected.glsl</tspan>
+<tspan x="10" y="1562"> 96.  2017-04-26 07:13:12 +0000       47 bytes  exercises/geom-5/shaders/fragment.glsl</tspan>
+<tspan x="10" y="1578"> 97.  2017-04-26 07:13:12 +0000      382 bytes  exercises/geom-5/shaders/vertex.glsl</tspan>
+<tspan x="10" y="1594"> 98.  2017-04-26 07:13:12 +0000     1323 bytes  exercises/gpgpu-1/README.md</tspan>
+<tspan x="10" y="1610"> 99.  2017-04-26 07:13:12 +0000      333 bytes  exercises/gpgpu-1/files/life.glsl</tspan>
+<tspan x="10" y="1626">100.  2017-04-26 07:13:12 +0000      274 bytes  exercises/gpgpu-1/index.html</tspan>
+<tspan x="10" y="1642">101.  2017-04-26 07:13:12 +0000     3111 bytes  exercises/gpgpu-1/index.js</tspan>
+<tspan x="10" y="1658">102.  2017-04-26 07:13:12 +0000      779 bytes  exercises/gpgpu-1/server.js</tspan>
+<tspan x="10" y="1674">103.  2017-04-26 07:13:12 +0000      447 bytes  exercises/gpgpu-1/shaders/logic_solution.frag</tspan>
+<tspan x="10" y="1690">104.  2017-04-26 07:13:12 +0000      164 bytes  exercises/gpgpu-1/shaders/render.frag</tspan>
+<tspan x="10" y="1706">105.  2017-04-26 07:13:12 +0000      113 bytes  exercises/gpgpu-1/shaders/triangle.vert</tspan>
+<tspan x="10" y="1722">106.  2017-04-26 07:13:12 +0000     1859 bytes  exercises/gpgpu-2/README.md</tspan>
+<tspan x="10" y="1738">107.  2017-04-26 07:13:12 +0000      394 bytes  exercises/gpgpu-2/files/heat.glsl</tspan>
+<tspan x="10" y="1754">108.  2017-04-26 07:13:12 +0000      275 bytes  exercises/gpgpu-2/index.html</tspan>
+<tspan x="10" y="1770">109.  2017-04-26 07:13:12 +0000     3042 bytes  exercises/gpgpu-2/index.js</tspan>
+<tspan x="10" y="1786">110.  2017-04-26 07:13:12 +0000      782 bytes  exercises/gpgpu-2/server.js</tspan>
+<tspan x="10" y="1802">111.  2017-04-26 07:13:12 +0000      108 bytes  exercises/gpgpu-2/shaders/pass-thru.glsl</tspan>
+<tspan x="10" y="1818">112.  2017-04-26 07:13:12 +0000      169 bytes  exercises/gpgpu-2/shaders/point-fragment.glsl</tspan>
+<tspan x="10" y="1834">113.  2017-04-26 07:13:12 +0000      163 bytes  exercises/gpgpu-2/shaders/point-vertex.glsl</tspan>
+<tspan x="10" y="1850">114.  2017-04-26 07:13:12 +0000      312 bytes  exercises/gpgpu-2/shaders/render.glsl</tspan>
+<tspan x="10" y="1866">115.  2017-04-26 07:13:12 +0000      517 bytes  exercises/gpgpu-2/shaders/update.glsl</tspan>
+<tspan x="10" y="1882">116.  2017-04-26 07:13:12 +0000     1334 bytes  exercises/gpgpu-3/README.md</tspan>
+<tspan x="10" y="1898">117.  2017-04-26 07:13:12 +0000      453 bytes  exercises/gpgpu-3/files/wave.glsl</tspan>
+<tspan x="10" y="1914">118.  2017-04-26 07:13:12 +0000      275 bytes  exercises/gpgpu-3/index.html</tspan>
+<tspan x="10" y="1930">119.  2017-04-26 07:13:12 +0000     3256 bytes  exercises/gpgpu-3/index.js</tspan>
+<tspan x="10" y="1946">120.  2017-04-26 07:13:12 +0000      779 bytes  exercises/gpgpu-3/server.js</tspan>
+<tspan x="10" y="1962">121.  2017-04-26 07:13:12 +0000      108 bytes  exercises/gpgpu-3/shaders/pass-thru.glsl</tspan>
+<tspan x="10" y="1978">122.  2017-04-26 07:13:12 +0000      169 bytes  exercises/gpgpu-3/shaders/point-fragment.glsl</tspan>
+<tspan x="10" y="1994">123.  2017-04-26 07:13:12 +0000      163 bytes  exercises/gpgpu-3/shaders/point-vertex.glsl</tspan>
+<tspan x="10" y="2010">124.  2017-04-26 07:13:12 +0000      277 bytes  exercises/gpgpu-3/shaders/render.glsl</tspan>
+<tspan x="10" y="2026">125.  2017-04-26 07:13:12 +0000      661 bytes  exercises/gpgpu-3/shaders/update.glsl</tspan>
+<tspan x="10" y="2042">126.  2017-04-26 07:13:12 +0000     1617 bytes  exercises/intro-0/README.md</tspan>
+<tspan x="10" y="2058">127.  2017-04-26 07:13:12 +0000      101 bytes  exercises/intro-0/files/hello.glsl</tspan>
+<tspan x="10" y="2074">128.  2017-04-26 07:13:12 +0000      282 bytes  exercises/intro-0/index.html</tspan>
+<tspan x="10" y="2090">129.  2017-04-26 07:13:12 +0000     4948 bytes  exercises/intro-0/index.js</tspan>
+<tspan x="10" y="2106">130.  2017-04-26 07:13:12 +0000      779 bytes  exercises/intro-0/server.js</tspan>
+<tspan x="10" y="2122">131.  2017-04-26 07:13:12 +0000      641 bytes  exercises/intro-0/shaders/fragment.glsl</tspan>
+<tspan x="10" y="2138">132.  2017-04-26 07:13:12 +0000      598 bytes  exercises/intro-0/shaders/vertex.glsl</tspan>
+<tspan x="10" y="2154">133.  2017-04-26 07:13:12 +0000     2859 bytes  exercises/intro-1/README.md</tspan>
+<tspan x="10" y="2170">134.  2017-04-26 07:13:12 +0000      155 bytes  exercises/intro-1/files/hello.glsl</tspan>
+<tspan x="10" y="2186">135.  2017-04-26 07:13:12 +0000      282 bytes  exercises/intro-1/index.html</tspan>
+<tspan x="10" y="2202">136.  2017-04-26 07:13:12 +0000     3346 bytes  exercises/intro-1/index.js</tspan>
+<tspan x="10" y="2218">137.  2017-04-26 07:13:12 +0000      779 bytes  exercises/intro-1/server.js</tspan>
+<tspan x="10" y="2234">138.  2017-04-26 07:13:12 +0000      181 bytes  exercises/intro-1/shaders/fragment.glsl</tspan>
+<tspan x="10" y="2250">139.  2017-04-26 07:13:12 +0000      320 bytes  exercises/intro-1/shaders/vertex.glsl</tspan>
+<tspan x="10" y="2266">140.  2017-04-26 07:13:12 +0000     2995 bytes  exercises/intro-2/README.md</tspan>
+<tspan x="10" y="2282">141.  2017-04-26 07:13:12 +0000      241 bytes  exercises/intro-2/files/sides.glsl</tspan>
+<tspan x="10" y="2298">142.  2017-04-26 07:13:12 +0000      272 bytes  exercises/intro-2/index.html</tspan>
+<tspan x="10" y="2314">143.  2017-04-26 07:13:12 +0000     4587 bytes  exercises/intro-2/index.js</tspan>
+<tspan x="10" y="2330">144.  2017-04-26 07:13:12 +0000      779 bytes  exercises/intro-2/server.js</tspan>
+<tspan x="10" y="2346">145.  2017-04-26 07:13:12 +0000      294 bytes  exercises/intro-2/shaders/expected.glsl</tspan>
+<tspan x="10" y="2362">146.  2017-04-26 07:13:12 +0000       51 bytes  exercises/intro-2/shaders/fragment.glsl</tspan>
+<tspan x="10" y="2378">147.  2017-04-26 07:13:12 +0000      682 bytes  exercises/intro-2/shaders/vertex.glsl</tspan>
+<tspan x="10" y="2394">148.  2017-04-26 07:13:12 +0000     3676 bytes  exercises/intro-3/README.md</tspan>
+<tspan x="10" y="2410">149.  2017-04-26 07:13:12 +0000      165 bytes  exercises/intro-3/files/vectors.glsl</tspan>
+<tspan x="10" y="2426">150.  2017-04-26 07:13:12 +0000      272 bytes  exercises/intro-3/index.html</tspan>
+<tspan x="10" y="2442">151.  2017-04-26 07:13:12 +0000     4846 bytes  exercises/intro-3/index.js</tspan>
+<tspan x="10" y="2458">152.  2017-04-26 07:13:12 +0000      779 bytes  exercises/intro-3/server.js</tspan>
+<tspan x="10" y="2474">153.  2017-04-26 07:13:12 +0000      109 bytes  exercises/intro-3/shaders/expected.glsl</tspan>
+<tspan x="10" y="2490">154.  2017-04-26 07:13:12 +0000       51 bytes  exercises/intro-3/shaders/fragment.glsl</tspan>
+<tspan x="10" y="2506">155.  2017-04-26 07:13:12 +0000      514 bytes  exercises/intro-3/shaders/vertex.glsl</tspan>
+<tspan x="10" y="2522">156.  2017-04-26 07:13:12 +0000     1271 bytes  exercises/intro-4/README.md</tspan>
+<tspan x="10" y="2538">157.  2017-04-26 07:13:12 +0000      232 bytes  exercises/intro-4/files/box.glsl</tspan>
+<tspan x="10" y="2554">158.  2017-04-26 07:13:12 +0000      267 bytes  exercises/intro-4/index.html</tspan>
+<tspan x="10" y="2570">159.  2017-04-26 07:13:12 +0000     2385 bytes  exercises/intro-4/index.js</tspan>
+<tspan x="10" y="2586">160.  2017-04-26 07:13:12 +0000      779 bytes  exercises/intro-4/server.js</tspan>
+<tspan x="10" y="2602">161.  2017-04-26 07:13:12 +0000      363 bytes  exercises/intro-4/shaders/fragment.glsl</tspan>
+<tspan x="10" y="2618">162.  2017-04-26 07:13:12 +0000       64 bytes  exercises/intro-4/shaders/vertex.glsl</tspan>
+<tspan x="10" y="2634">163.  2017-04-26 07:13:12 +0000     2033 bytes  exercises/intro-5/README.md</tspan>
+<tspan x="10" y="2650">164.  2017-04-26 07:13:12 +0000      246 bytes  exercises/intro-5/files/mandelbrot.glsl</tspan>
+<tspan x="10" y="2666">165.  2017-04-26 07:13:12 +0000      274 bytes  exercises/intro-5/index.html</tspan>
+<tspan x="10" y="2682">166.  2017-04-26 07:13:12 +0000     2011 bytes  exercises/intro-5/index.js</tspan>
+<tspan x="10" y="2698">167.  2017-04-26 07:13:12 +0000      779 bytes  exercises/intro-5/server.js</tspan>
+<tspan x="10" y="2714">168.  2017-04-26 07:13:12 +0000      467 bytes  exercises/intro-5/shaders/fragment.glsl</tspan>
+<tspan x="10" y="2730">169.  2017-04-26 07:13:12 +0000       64 bytes  exercises/intro-5/shaders/vertex.glsl</tspan>
+<tspan x="10" y="2746">170.  2017-04-26 07:13:12 +0000     2313 bytes  exercises/intro-6/README.md</tspan>
+<tspan x="10" y="2762">171.  2017-04-26 07:13:12 +0000      262 bytes  exercises/intro-6/files/mpow.glsl</tspan>
+<tspan x="10" y="2778">172.  2017-04-26 07:13:12 +0000      270 bytes  exercises/intro-6/index.html</tspan>
+<tspan x="10" y="2794">173.  2017-04-26 07:13:12 +0000     2663 bytes  exercises/intro-6/index.js</tspan>
+<tspan x="10" y="2810">174.  2017-04-26 07:13:12 +0000      779 bytes  exercises/intro-6/server.js</tspan>
+<tspan x="10" y="2826">175.  2017-04-26 07:13:12 +0000      436 bytes  exercises/intro-6/shaders/expected.glsl</tspan>
+<tspan x="10" y="2842">176.  2017-04-26 07:13:12 +0000      131 bytes  exercises/intro-6/shaders/fragment.glsl</tspan>
+<tspan x="10" y="2858">177.  2017-04-26 07:13:12 +0000      323 bytes  exercises/intro-6/shaders/vertex.glsl</tspan>
+<tspan x="10" y="2874">178.  2017-04-26 07:13:12 +0000     1631 bytes  exercises/lesson-plan.md</tspan>
+<tspan x="10" y="2890">179.  2017-04-26 07:13:12 +0000     2864 bytes  exercises/light-1/README.md</tspan>
+<tspan x="10" y="2906">180.  2017-04-26 07:13:12 +0000      134 bytes  exercises/light-1/files/fragment.glsl</tspan>
+<tspan x="10" y="2922">181.  2017-04-26 07:13:12 +0000      163 bytes  exercises/light-1/files/vertex.glsl</tspan>
+<tspan x="10" y="2938">182.  2017-04-26 07:13:12 +0000      274 bytes  exercises/light-1/index.html</tspan>
+<tspan x="10" y="2954">183.  2017-04-26 07:13:12 +0000     3185 bytes  exercises/light-1/index.js</tspan>
+<tspan x="10" y="2970">184.  2017-04-26 07:13:12 +0000      780 bytes  exercises/light-1/server.js</tspan>
+<tspan x="10" y="2986">185.  2017-04-26 07:13:12 +0000       96 bytes  exercises/light-1/shaders/fragment.glsl</tspan>
+<tspan x="10" y="3002">186.  2017-04-26 07:13:12 +0000      167 bytes  exercises/light-1/shaders/vertex.glsl</tspan>
+<tspan x="10" y="3018">187.  2017-04-26 07:13:12 +0000     3239 bytes  exercises/light-2/README.md</tspan>
+<tspan x="10" y="3034">188.  2017-04-26 07:13:12 +0000      298 bytes  exercises/light-2/files/fragment.glsl</tspan>
+<tspan x="10" y="3050">189.  2017-04-26 07:13:12 +0000      351 bytes  exercises/light-2/files/vertex.glsl</tspan>
+<tspan x="10" y="3066">190.  2017-04-26 07:13:12 +0000      275 bytes  exercises/light-2/index.html</tspan>
+<tspan x="10" y="3082">191.  2017-04-26 07:13:12 +0000     3742 bytes  exercises/light-2/index.js</tspan>
+<tspan x="10" y="3098">192.  2017-04-26 07:13:12 +0000      779 bytes  exercises/light-2/server.js</tspan>
+<tspan x="10" y="3114">193.  2017-04-26 07:13:12 +0000      257 bytes  exercises/light-2/shaders/fragment.glsl</tspan>
+<tspan x="10" y="3130">194.  2017-04-26 07:13:12 +0000      401 bytes  exercises/light-2/shaders/vertex.glsl</tspan>
+<tspan x="10" y="3146">195.  2017-04-26 07:13:12 +0000     2702 bytes  exercises/light-3/README.md</tspan>
+<tspan x="10" y="3162">196.  2017-04-26 07:13:12 +0000      253 bytes  exercises/light-3/files/fragment.glsl</tspan>
+<tspan x="10" y="3178">197.  2017-04-26 07:13:12 +0000      290 bytes  exercises/light-3/files/vertex.glsl</tspan>
+<tspan x="10" y="3194">198.  2017-04-26 07:13:12 +0000      276 bytes  exercises/light-3/index.html</tspan>
+<tspan x="10" y="3210">199.  2017-04-26 07:13:12 +0000     3889 bytes  exercises/light-3/index.js</tspan>
+<tspan x="10" y="3226">200.  2017-04-26 07:13:12 +0000      779 bytes  exercises/light-3/server.js</tspan>
+<tspan x="10" y="3242">201.  2017-04-26 07:13:12 +0000      535 bytes  exercises/light-3/shaders/fragment.glsl</tspan>
+<tspan x="10" y="3258">202.  2017-04-26 07:13:12 +0000      450 bytes  exercises/light-3/shaders/vertex.glsl</tspan>
+<tspan x="10" y="3274">203.  2017-04-26 07:13:12 +0000     1066 bytes  exercises/light-4/README.md</tspan>
+<tspan x="10" y="3290">204.  2017-04-26 07:13:12 +0000      347 bytes  exercises/light-4/files/fragment.glsl</tspan>
+<tspan x="10" y="3306">205.  2017-04-26 07:13:12 +0000      306 bytes  exercises/light-4/files/vertex.glsl</tspan>
+<tspan x="10" y="3322">206.  2017-04-26 07:13:12 +0000      274 bytes  exercises/light-4/index.html</tspan>
+<tspan x="10" y="3338">207.  2017-04-26 07:13:12 +0000     4266 bytes  exercises/light-4/index.js</tspan>
+<tspan x="10" y="3354">208.  2017-04-26 07:13:12 +0000      779 bytes  exercises/light-4/server.js</tspan>
+<tspan x="10" y="3370">209.  2017-04-26 07:13:12 +0000      616 bytes  exercises/light-4/shaders/fragment.glsl</tspan>
+<tspan x="10" y="3386">210.  2017-04-26 07:13:12 +0000       92 bytes  exercises/light-4/shaders/point-fragment.glsl</tspan>
+<tspan x="10" y="3402">211.  2017-04-26 07:13:12 +0000      215 bytes  exercises/light-4/shaders/point-vertex.glsl</tspan>
+<tspan x="10" y="3418">212.  2017-04-26 07:13:12 +0000      693 bytes  exercises/light-4/shaders/vertex.glsl</tspan>
+<tspan x="10" y="3434">213.  2017-04-26 07:13:12 +0000     1855 bytes  exercises/light-5/README.md</tspan>
+<tspan x="10" y="3450">214.  2017-04-26 07:13:12 +0000      331 bytes  exercises/light-5/files/fragment.glsl</tspan>
+<tspan x="10" y="3466">215.  2017-04-26 07:13:12 +0000      192 bytes  exercises/light-5/files/light.glsl</tspan>
+<tspan x="10" y="3482">216.  2017-04-26 07:13:12 +0000      384 bytes  exercises/light-5/files/vertex.glsl</tspan>
+<tspan x="10" y="3498">217.  2017-04-26 07:13:12 +0000      277 bytes  exercises/light-5/index.html</tspan>
+<tspan x="10" y="3514">218.  2017-04-26 07:13:12 +0000     5668 bytes  exercises/light-5/index.js</tspan>
+<tspan x="10" y="3530">219.  2017-04-26 07:13:12 +0000      779 bytes  exercises/light-5/server.js</tspan>
+<tspan x="10" y="3546">220.  2017-04-26 07:13:12 +0000      690 bytes  exercises/light-5/shaders/fragment.glsl</tspan>
+<tspan x="10" y="3562">221.  2017-04-26 07:13:12 +0000      192 bytes  exercises/light-5/shaders/light.glsl</tspan>
+<tspan x="10" y="3578">222.  2017-04-26 07:13:12 +0000       94 bytes  exercises/light-5/shaders/point-fragment.glsl</tspan>
+<tspan x="10" y="3594">223.  2017-04-26 07:13:12 +0000      215 bytes  exercises/light-5/shaders/point-vertex.glsl</tspan>
+<tspan x="10" y="3610">224.  2017-04-26 07:13:12 +0000      797 bytes  exercises/light-5/shaders/vertex.glsl</tspan>
+<tspan x="10" y="3626">225.  2017-04-26 07:13:12 +0000     1211 bytes  exercises/npr-1/README.md</tspan>
+<tspan x="10" y="3642">226.  2017-04-26 07:13:12 +0000      300 bytes  exercises/npr-1/files/fragment.glsl</tspan>
+<tspan x="10" y="3658">227.  2017-04-26 07:13:12 +0000      352 bytes  exercises/npr-1/files/vertex.glsl</tspan>
+<tspan x="10" y="3674">228.  2017-04-26 07:13:12 +0000      273 bytes  exercises/npr-1/index.html</tspan>
+<tspan x="10" y="3690">229.  2017-04-26 07:13:12 +0000     3930 bytes  exercises/npr-1/index.js</tspan>
+<tspan x="10" y="3706">230.  2017-04-26 07:13:12 +0000      779 bytes  exercises/npr-1/server.js</tspan>
+<tspan x="10" y="3722">231.  2017-04-26 07:13:12 +0000      376 bytes  exercises/npr-1/shaders/fragment.glsl</tspan>
+<tspan x="10" y="3738">232.  2017-04-26 07:13:12 +0000      458 bytes  exercises/npr-1/shaders/vertex.glsl</tspan>
+<tspan x="10" y="3754">233.  2017-04-26 07:13:12 +0000     1703 bytes  exercises/npr-2/README.md</tspan>
+<tspan x="10" y="3770">234.  2017-04-26 07:13:12 +0000      292 bytes  exercises/npr-2/files/fragment.glsl</tspan>
+<tspan x="10" y="3786">235.  2017-04-26 07:13:12 +0000      344 bytes  exercises/npr-2/files/vertex.glsl</tspan>
+<tspan x="10" y="3802">236.  2017-04-26 07:13:12 +0000      273 bytes  exercises/npr-2/index.html</tspan>
+<tspan x="10" y="3818">237.  2017-04-26 07:13:12 +0000     3946 bytes  exercises/npr-2/index.js</tspan>
+<tspan x="10" y="3834">238.  2017-04-26 07:13:12 +0000      779 bytes  exercises/npr-2/server.js</tspan>
+<tspan x="10" y="3850">239.  2017-04-26 07:13:12 +0000      329 bytes  exercises/npr-2/shaders/fragment.glsl</tspan>
+<tspan x="10" y="3866">240.  2017-04-26 07:13:12 +0000      458 bytes  exercises/npr-2/shaders/vertex.glsl</tspan>
+<tspan x="10" y="3882">241.  2017-04-26 07:13:12 +0000     1060 bytes  exercises/playground-flocking/README.md</tspan>
+<tspan x="10" y="3898">242.  2017-04-26 07:13:12 +0000      364 bytes  exercises/playground-flocking/files/position.gls\</tspan>
+<tspan x="10" y="3914">l</tspan>
+<tspan x="10" y="3930">243.  2017-04-26 07:13:12 +0000      483 bytes  exercises/playground-flocking/files/render.frag</tspan>
+<tspan x="10" y="3946">244.  2017-04-26 07:13:12 +0000      637 bytes  exercises/playground-flocking/files/render.vert</tspan>
+<tspan x="10" y="3962">245.  2017-04-26 07:13:12 +0000     1888 bytes  exercises/playground-flocking/files/speed.glsl</tspan>
+<tspan x="10" y="3978">246.  2017-04-26 07:13:12 +0000      113 bytes  exercises/playground-flocking/files/triangle.gls\</tspan>
+<tspan x="10" y="3994">l</tspan>
+<tspan x="10" y="4010">247.  2017-04-26 07:13:12 +0000      282 bytes  exercises/playground-flocking/index.html</tspan>
+<tspan x="10" y="4026">248.  2017-04-26 07:13:12 +0000     4221 bytes  exercises/playground-flocking/index.js</tspan>
+<tspan x="10" y="4042">249.  2017-04-26 07:13:12 +0000      779 bytes  exercises/playground-flocking/server.js</tspan>
+<tspan x="10" y="4058">250.  2017-04-26 07:13:12 +0000      761 bytes  exercises/playground-gpgpu/README.md</tspan>
+<tspan x="10" y="4074">251.  2017-04-26 07:13:12 +0000      418 bytes  exercises/playground-gpgpu/files/render.glsl</tspan>
+<tspan x="10" y="4090">252.  2017-04-26 07:13:12 +0000      759 bytes  exercises/playground-gpgpu/files/update.glsl</tspan>
+<tspan x="10" y="4106">253.  2017-04-26 07:13:12 +0000      287 bytes  exercises/playground-gpgpu/index.html</tspan>
+<tspan x="10" y="4122">254.  2017-04-26 07:13:12 +0000     3170 bytes  exercises/playground-gpgpu/index.js</tspan>
+<tspan x="10" y="4138">255.  2017-04-26 07:13:12 +0000      779 bytes  exercises/playground-gpgpu/server.js</tspan>
+<tspan x="10" y="4154">256.  2017-04-26 07:13:12 +0000      108 bytes  exercises/playground-gpgpu/shaders/pass-thru.gls\</tspan>
+<tspan x="10" y="4170">l</tspan>
+<tspan x="10" y="4186">257.  2017-04-26 07:13:12 +0000     1524 bytes  exercises/prims-1/README.md</tspan>
+<tspan x="10" y="4202">258.  2017-04-26 07:13:12 +0000       71 bytes  exercises/prims-1/files/fragment.glsl</tspan>
+<tspan x="10" y="4218">259.  2017-04-26 07:13:12 +0000      199 bytes  exercises/prims-1/files/vertex.glsl</tspan>
+<tspan x="10" y="4234">260.  2017-04-26 07:13:12 +0000      275 bytes  exercises/prims-1/index.html</tspan>
+<tspan x="10" y="4250">261.  2017-04-26 07:13:12 +0000     3857 bytes  exercises/prims-1/index.js</tspan>
+<tspan x="10" y="4266">262.  2017-04-26 07:13:12 +0000      779 bytes  exercises/prims-1/server.js</tspan>
+<tspan x="10" y="4282">263.  2017-04-26 07:13:12 +0000      175 bytes  exercises/prims-1/shaders/fragment.glsl</tspan>
+<tspan x="10" y="4298">264.  2017-04-26 07:13:12 +0000      268 bytes  exercises/prims-1/shaders/vertex.glsl</tspan>
+<tspan x="10" y="4314">265.  2017-04-26 07:13:12 +0000      566 bytes  exercises/prims-2/README.md</tspan>
+<tspan x="10" y="4330">266.  2017-04-26 07:13:12 +0000      108 bytes  exercises/prims-2/files/fragment.glsl</tspan>
+<tspan x="10" y="4346">267.  2017-04-26 07:13:12 +0000      271 bytes  exercises/prims-2/index.html</tspan>
+<tspan x="10" y="4362">268.  2017-04-26 07:13:12 +0000     3065 bytes  exercises/prims-2/index.js</tspan>
+<tspan x="10" y="4378">269.  2017-04-26 07:13:12 +0000      779 bytes  exercises/prims-2/server.js</tspan>
+<tspan x="10" y="4394">270.  2017-04-26 07:13:12 +0000      197 bytes  exercises/prims-2/shaders/fragment.glsl</tspan>
+<tspan x="10" y="4410">271.  2017-04-26 07:13:12 +0000      357 bytes  exercises/prims-2/shaders/vertex.glsl</tspan>
+<tspan x="10" y="4426">272.  2017-04-26 07:13:12 +0000     1869 bytes  exercises/vert-1/README.md</tspan>
+<tspan x="10" y="4442">273.  2017-04-26 07:13:12 +0000      190 bytes  exercises/vert-1/files/vertex.glsl</tspan>
+<tspan x="10" y="4458">274.  2017-04-26 07:13:12 +0000      291 bytes  exercises/vert-1/index.html</tspan>
+<tspan x="10" y="4474">275.  2017-04-26 07:13:12 +0000     1954 bytes  exercises/vert-1/index.js</tspan>
+<tspan x="10" y="4490">276.  2017-04-26 07:13:12 +0000      779 bytes  exercises/vert-1/server.js</tspan>
+<tspan x="10" y="4506">277.  2017-04-26 07:13:12 +0000       50 bytes  exercises/vert-1/shaders/fragment.glsl</tspan>
+<tspan x="10" y="4522">278.  2017-04-26 07:13:12 +0000      217 bytes  exercises/vert-1/shaders/vertex.glsl</tspan>
+<tspan x="10" y="4538">279.  2017-04-26 07:13:12 +0000     1736 bytes  exercises/vert-2/README.md</tspan>
+<tspan x="10" y="4554">280.  2017-04-26 07:13:12 +0000       71 bytes  exercises/vert-2/files/fragment.glsl</tspan>
+<tspan x="10" y="4570">281.  2017-04-26 07:13:12 +0000      114 bytes  exercises/vert-2/files/vertex.glsl</tspan>
+<tspan x="10" y="4586">282.  2017-04-26 07:13:12 +0000      278 bytes  exercises/vert-2/index.html</tspan>
+<tspan x="10" y="4602">283.  2017-04-26 07:13:12 +0000     2163 bytes  exercises/vert-2/index.js</tspan>
+<tspan x="10" y="4618">284.  2017-04-26 07:13:12 +0000      779 bytes  exercises/vert-2/server.js</tspan>
+<tspan x="10" y="4634">285.  2017-04-26 07:13:12 +0000      101 bytes  exercises/vert-2/shaders/fragment.glsl</tspan>
+<tspan x="10" y="4650">286.  2017-04-26 07:13:12 +0000      159 bytes  exercises/vert-2/shaders/vertex.glsl</tspan>
+<tspan x="10" y="4666">287.  2017-04-26 07:13:12 +0000     3058 bytes  index.js</tspan>
+<tspan x="10" y="4682">288.  2017-04-26 07:13:12 +0000       97 bytes  intro.txt</tspan>
+<tspan x="10" y="4698">289.  2017-04-26 07:13:12 +0000      172 bytes  lib/close-window.html</tspan>
+<tspan x="10" y="4714">290.  2017-04-26 07:13:12 +0000     1671 bytes  lib/create-answers.js</tspan>
+<tspan x="10" y="4730">291.  2017-04-26 07:13:12 +0000      525 bytes  lib/description.js</tspan>
+<tspan x="10" y="4746">292.  2017-04-26 07:13:12 +0000      260 bytes  lib/diff-ui.html</tspan>
+<tspan x="10" y="4762">293.  2017-04-26 07:13:12 +0000     1501 bytes  lib/diff-ui.js</tspan>
+<tspan x="10" y="4778">294.  2017-04-26 07:13:12 +0000      298 bytes  lib/exercise-map.js</tspan>
+<tspan x="10" y="4794">295.  2017-04-26 07:13:12 +0000      443 bytes  lib/match-fbo.js</tspan>
+<tspan x="10" y="4810">296.  2017-04-26 07:13:12 +0000      314 bytes  lib/progress.js</tspan>
+<tspan x="10" y="4826">297.  2017-04-26 07:13:12 +0000      299 bytes  menu/index.html</tspan>
+<tspan x="10" y="4842">298.  2017-04-26 07:13:12 +0000     1403 bytes  menu/index.js</tspan>
+<tspan x="10" y="4858">299.  2017-04-26 07:13:12 +0000     4975 bytes  package.json</tspan>
+<tspan x="10" y="4874">300.  2017-04-26 07:13:12 +0000      212 bytes  postpack.js</tspan>
+<tspan x="10" y="4890">301.  2017-04-26 07:13:12 +0000      233 bytes  prepack.js</tspan>
+<tspan x="10" y="4906">302.  2017-04-26 07:13:12 +0000      269 bytes  start.js</tspan>
+<tspan x="10" y="4922">303.  2017-04-26 07:13:12 +0000     4900 bytes  style/index.css</tspan>
+<tspan x="10" y="4938">304.  2017-04-26 07:13:12 +0000      611 bytes  style/index.js</tspan>
+<tspan x="10" y="4954">305.  2017-04-26 07:13:12 +0000     1289 bytes  style/reset.css</tspan>
+</text>
+</svg>
